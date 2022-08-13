@@ -1,0 +1,26 @@
+Algoritmo "idade"
+
+Var
+idade: inteiro
+nome: caracter
+
+Inicio
+escreval("Digite seu nome completo:")
+leia(nome)
+escreval("Digite o ano que você nasceu:")
+leia(idade)
+
+escreval("Seu nome:",nome)
+se (idade < 1922) entao
+escreval("Sua idade não foi identificada")
+senao
+se (Idade > 2021) entao
+escreval("Sua idade não foi identificada")
+senao
+escreval("Você completou ou completará em 2022:", 2022-idade, "anos")
+
+fimse
+fimse
+
+
+Fimalgoritmo
